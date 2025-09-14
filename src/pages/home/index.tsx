@@ -1,4 +1,4 @@
-import { Box, Button, ButtonGroup, Typography } from "@mui/material";
+import { Box, Button, ButtonGroup } from "@mui/material";
 export default function Home() {
   return (
     <>
